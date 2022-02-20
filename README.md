@@ -13,18 +13,28 @@ The refractored code for 2017 ran in 0.078 seconds
 The refractored code for 2018 ran in 0.078 seconds
 <img width="1176" alt="image" src="https://user-images.githubusercontent.com/91449005/154858047-96a7a13a-ba71-4b24-a364-a4acbcc06bdc.png">
 
-####What are the advantages of refactoring code?
--Increases speed of program
--Makes the code easier to understand
--Helps find bugs
--Uses less memory and storage to process the same information
+##What are the advantages of refactoring code?
 
-####What are the disadvantages of refactoring code?
--The developer must understand what the code is doing to improve it
--Refactoring code could produce bugs
--It could be risky in terms of time and money, to not make any improvements
+Increases speed of program
 
-####How do these pros and cons apply to refactoring the original VBA script?
--The refactored VBA code increased in execution speed
--The code is working and refactoring could produce bugs
--The refactored code can save time, money, and reduce the memory and stoage use which would be very useful on larger projects.
+Makes the code easier to understand
+
+Helps find bugs
+
+Uses less memory and storage to process the same information
+
+##What are the disadvantages of refactoring code?
+
+The developer must understand what the code is doing to improve it
+
+Refactoring code could produce bugs
+
+It could be risky in terms of time and money, to not make any improvements
+
+##How do these pros and cons apply to refactoring the original VBA script?
+
+The refactored VBA code increased in execution speed
+
+The code is working and refactoring could produce bugs
+
+The refactored code can save time, money, and reduce the memory and stoage use which would be very useful on larger projects.
