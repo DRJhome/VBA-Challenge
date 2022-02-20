@@ -14,8 +14,7 @@ The refractored code for 2018 ran in 0.078 seconds
 <img width="1176" alt="image" src="https://user-images.githubusercontent.com/91449005/154858047-96a7a13a-ba71-4b24-a364-a4acbcc06bdc.png">
 
 ## What are the advantages of refactoring code?
-
-Increases speed of program
+- Increases speed of program
 - Makes the code easier to understand
 - Helps find bugs
 - Uses less memory and storage to process the same information
