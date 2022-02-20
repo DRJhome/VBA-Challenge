@@ -1,5 +1,5 @@
 # Stock Analysis
-- Creating a macro in VBA to analyize Stock Market data
+* Creating a macro in VBA to analyize Stock Market data
 
 ## Ovierview of Project
  Use VBA to anaylize a two year stock market dataset. VBA code was written to daily volume and rate of return for for an entire calendar year. To increase the efficency of the VBA code we refactored the original VBA code. 
